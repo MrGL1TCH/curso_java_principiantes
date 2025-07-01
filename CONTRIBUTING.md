@@ -1,8 +1,8 @@
-# 🛠️ Contribuyendo a curso-java-principiantes
+# Contribuyendo a curso-java-principiantes
 
 ¡Gracias por tu interés en contribuir a este curso! Aquí te dejo unas reglas simples para colaborar correctamente:
 
-## ✏️ ¿Cómo contribuir?
+## ¿Cómo contribuir?
 
 1. **Haz un fork** del repositorio.
 2. Crea una nueva rama con tu cambio:
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Reglas básicas
+## Reglas básicas
 
 - Sigue el estilo de comentarios del curso (explicaciones claras y amigables).
 - Usa nombres de archivos que coincidan con el nombre de la clase (por convención, con mayúscula inicial):
@@ -27,10 +27,10 @@
 
 ---
 
-## ❓¿Tienes dudas?
+## ¿Tienes dudas?
 
 Si tienes preguntas, ideas o sugerencias, abre un [Issue](https://github.com/MrGL1TCH/curso-java-principiantes/issues) y con gusto las revisamos.
 
 ---
 
-Gracias por contribuir 🤓🪴
+Gracias por contribuir.

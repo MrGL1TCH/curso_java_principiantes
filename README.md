@@ -44,11 +44,11 @@ Cada módulo del curso contiene:
 | 03     | Operadores                           | Aritméticos, lógicos, comparación, asignación.       |
 | 04     | Condicionales `if`, `else`           | Decisiones simples y múltiples.                      |
 | 05     | `switch`                             | Alternativa para múltiples opciones.                 |
-| 06     | Ciclos `while` y `do-while`          | Repetición basada en condiciones.                    |
-| 07     | Ciclo `for`                          | Ciclos con contador.                                 |
-| 08     | Arreglos (Arrays)                    | Almacenar múltiples valores del mismo tipo.          |
-| 09     | Métodos (Funciones)                  | Modularizar el código y reutilizar lógica.           |
-| 10     | Entrada del usuario (`Scanner`)    | Leer datos desde la terminal.                        |
+| 06     | Entrada del usuario (`Scanner`)      | Leer datos desde la terminal.                        |
+| 07     | Ciclos `while` y `do-while`          | Repetición basada en condiciones.                    |
+| 08     | Ciclo `for`                          | Ciclos con contador.                                 |
+| 09     | Arreglos (Arrays)                    | Almacenar múltiples valores del mismo tipo.          |
+| 10     | Métodos (Funciones)                  | Modularizar el código y reutilizar lógica.           |
 | 11     | Clases y Objetos                     | Introducción a la programación orientada a objetos.  |
 | 12     | Encapsulamiento y modificadores      | `public`, `private`, getters y setters.              |
 | 13     | Constructores                        | Inicializar objetos al crearlos.                     |

@@ -1,4 +1,4 @@
-# Módulo 02 – Variables y Tipos de Datos
+# Módulo 02 – Variables y Tipos de Datos en Java
 
 ## Objetivo del módulo
 
